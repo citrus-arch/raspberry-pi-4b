@@ -1,0 +1,9 @@
+# build outputs
+build/
+*.img
+
+# toolchains
+fasmarm/
+
+# temporary files
+*.o
