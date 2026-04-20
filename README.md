@@ -1,6 +1,7 @@
-# Raspberry Pi Bare Metal Experiments
+# Raspberry Pi Bare Metal 
 
 Minimal bare-metal programs for Raspberry Pi using AArch64 assembly.
+Static LED on.
 
 ## Requirements
 - fasmarm assembler
